@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ScreenShare.Client/ScreenShare.Client.csproj" />
+  <Project Path="ScreenShare.Common/ScreenShare.Common.csproj" />
+  <Project Path="ScreenShare.Host/ScreenShare.Host.csproj" />
+</Solution>
